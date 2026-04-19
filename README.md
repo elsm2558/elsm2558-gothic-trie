@@ -1,5 +1,7 @@
 Gothic Markov Chain Generator (Trie Implementation)
+
 Project Data Structure
+
 This project implements a Trie (Prefix Tree) to manage and analyze word relationships from classic Gothic literature.
 
 Explanation of the Data Structure
