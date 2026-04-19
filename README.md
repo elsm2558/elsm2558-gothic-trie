@@ -24,8 +24,8 @@ Use the g++ compiler to build the executable from the source files:
 Bash
 
 g++ -std=c++11 main.cpp Trie.cpp -o elsm2558
+
 Execute the program:
-Run the generated executable:
 
 Bash
 
